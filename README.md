@@ -1,0 +1,2 @@
+# assets-imztth
+static assets
